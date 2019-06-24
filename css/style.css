@@ -1,0 +1,40 @@
+body{
+    font-family: "Century Gothic";
+    margin-top: 60px;
+    margin-left: 150px;
+    margin-left: 150px;
+    background: azure;
+}
+
+table{
+    width: 80%;
+    border: 1px solid black;
+}
+th,td{
+    width: 25px;
+    text-align: left;
+    vertical-align: top;
+    border: 1px solid black;
+    padding: 0.3em;
+}
+
+th{
+    background: dodgerblue;
+    color: white;
+    font-size: 15px;
+}
+
+td{
+    font-size: 20px;
+}
+input{
+    border-radius: 5px;
+    border: 1px solid lightgrey;
+    width: 250px;
+    padding: 5px;
+}
+
+label{
+    font-size: 20px;
+    margin-top: 5px;
+}
